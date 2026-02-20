@@ -69,7 +69,6 @@
     <Compile Include="Assets\JumpCar\Scripts\PlayerSoundManager.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Views\EndGamePanelView.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Models\IScoreObservable.cs" />
-    <Compile Include="Assets\JumpCar\Scripts\CarMovement.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Controllers\PlayerController.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Spawners\PlatformSpawner.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Bootstrap.cs" />
@@ -77,8 +76,8 @@
     <Compile Include="Assets\JumpCar\Scripts\Models\Score.cs" />
     <Compile Include="Assets\JumpCar\Scripts\ScriptableObjects\PlayerConfig.cs" />
     <Compile Include="Assets\JumpCar\Scripts\ScriptableObjects\LevelConfig.cs" />
-    <Compile Include="Assets\JumpCar\Scripts\Controllers\EnemyController.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Presenters\EndGamePanelPresenter.cs" />
+    <Compile Include="Assets\JumpCar\Scripts\Controllers\CarMovement.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Views\CounterView.cs" />
     <Compile Include="Assets\JumpCar\Scripts\Utils\CameraBounds.cs" />
   </ItemGroup>
